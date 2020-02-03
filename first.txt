@@ -2,4 +2,11 @@
 
 
 
+Dproblems with vi editor
+B
+
+B
+B
+C
+C
 introduction to git
